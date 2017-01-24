@@ -1,2 +1,4 @@
 # Hello-World
-just another repository
+Hi Humans!
+
+HOU here,I love programming and want to be a hacker.
